@@ -1,0 +1,33 @@
+ body{
+            background-color:rgba(255, 235, 205, 0.349);
+        }
+        .card{
+            width: 590px;
+            height: fit-content;
+            padding:2%;
+            background-color: white;
+           border-radius: 20px;
+           margin-left: 20%;
+           
+        }
+        .two{
+           
+            width:550px;
+            height: fit-content;
+            
+            padding: 1px 17px ;
+            border-radius: 10px;
+            background-color: rgba(255, 182, 193, 0.199);
+        }
+        ::marker{
+            color: brown;
+        }
+        
+        
+        .one td:nth-child(2){
+            position: relative;
+            left: 250px;
+            color: brown;
+            padding-bottom: 13px;
+        }
+        
